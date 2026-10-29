@@ -1,0 +1,58 @@
+TELEGRAM SIGNAL - PERSONAL USE LICENSE
+
+Copyright (c) 2026 Faaiz Hamid. All rights reserved.
+
+This license applies to the Telegram Signal source code and related materials
+(the "Software"), except for third-party components that are governed by their
+own licenses.
+
+1. Permission for personal use
+
+You may view, download, install, and run the Software for your own personal,
+non-commercial use. You may make copies reasonably necessary to install and run
+the Software on devices you control. You may modify your local copy solely for
+your own personal, non-commercial use.
+
+2. Restrictions
+
+Unless you receive prior written permission from the copyright holder, you may
+not:
+
+- sell, rent, sublicense, or otherwise commercially exploit the Software;
+- distribute, publish, or share copies of the Software or modified versions;
+- use the Software to provide a paid service or for commercial operations;
+- publish or distribute derivative works based on the Software;
+- remove or alter copyright, authorship, or license notices; or
+- represent the Software or another person's work as your own.
+
+3. No transfer of ownership
+
+The Software remains the property of the copyright holder. Making the source
+code publicly available does not transfer ownership or grant permission for
+uses not expressly allowed by this license.
+
+4. Third-party components
+
+Third-party libraries, dependencies, fonts, icons, and other materials remain
+subject to their own licenses. You are responsible for complying with those
+licenses when using the Software.
+
+5. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW.
+
+6. Termination
+
+Permission under this license ends if you violate its terms. Upon termination,
+you must stop using the Software and delete copies in your possession, except
+where retention is required by law.
+
+For permissions beyond personal, non-commercial use, contact the copyright
+holder.
+
+This is a custom source-available license, not an OSI-approved open-source
+license. This notice does not replace or override licenses applicable to
+third-party components.
