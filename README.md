@@ -23,6 +23,17 @@ React + Vite provides the dashboard. FastAPI serves the API, Telethon listens to
 - Telegram API ID and API hash from [my.telegram.org](https://my.telegram.org)
 - A Telegram bot created with [@BotFather](https://t.me/BotFather)
 
+## Download the project
+
+Open PowerShell and run:
+
+```powershell
+git clone https://github.com/faaizhamid07/Telegram-Signal-Personal.git
+cd Telegram-Signal-Personal
+```
+
+Alternatively, use GitHub's **Code → Download ZIP** option and extract the project.
+
 ## Install on Windows
 
 Open PowerShell in the project folder.
